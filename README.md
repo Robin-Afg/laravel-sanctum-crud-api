@@ -7,19 +7,19 @@
 <p>
     1. http://youprojectpath/api/register
         pass ->
-                name, email, password and password_confirmation
+                name, email, password and password_confirmation </br>
     2. http://youprojectpath/api/login
         pass->
-            email and password fields
-    3. http://youprojectpath/api/logout
-    4. http://youprojectpath/api/products    ... list all products
-    5. http://youprojectpath/api/products/2    ... show a specific product
-    6. http://youprojectpath/api/products/   ... post request to 
+            email and password fields</br>
+    3. http://youprojectpath/api/logout</br>
+    4. http://youprojectpath/api/products    ... list all products</br>
+    5. http://youprojectpath/api/products/2    ... show a specific product</br>
+    6. http://youprojectpath/api/products/   ... post request to </br>
         pass->
-                name, slug, description, price
+                name, slug, description, price</br>
     7. http://youprojectpath/api/products/1   ... put request to 
         pass any of the following -> 
-                name, slug, description, price
+                name, slug, description, price</br>
     
     8. http://youprojectpath/api/products/1   ... delete request to 
 </p>
